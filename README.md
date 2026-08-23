@@ -68,9 +68,6 @@ editar mi foto para que convine con el estilo de la página.
 
 ## Tecnologías
 
-![HTML5]
-![CSS3]
-![JavaScript]
-![Google Fonts]
+HTML5, CSS3, JavaScript, Google Fonts
 
 ---
