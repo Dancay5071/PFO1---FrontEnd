@@ -25,7 +25,7 @@ PFO1/
 ##  Herramienta Utilizada y Prompt
 
 ```
-Llevo 5 meses usándo Antigravity Gratuito para mejorar el código y crear animaciones dentro de páginas web.
+Llevo 5 meses usando Antigravity Gratuito para mejorar el código y crear animaciones dentro de páginas web.
 En este proyecto utilicé el siguiente prompt: 
 "Actúa como un desarrollador Frontend y diseñador UX/UI experto.Con la temática de esoterismo, misticismo y magia con el color violeta #140921 necesito que escribas el código para un landing de portfolio que conste de un html: Usa etiquetas: <header>, <nav>, <main> y <footer>. 
 secciones:
